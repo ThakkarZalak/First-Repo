@@ -1,0 +1,4 @@
+Hello everyone!!
+This is my first Repo..
+I am a student and learning to work with git and github.
+I am just a beginner...
